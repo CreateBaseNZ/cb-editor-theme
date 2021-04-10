@@ -1,0 +1,45 @@
+{
+    "base": "vs",
+    "inherit": true,
+    "rules": [
+        { 
+            "token": "comment",
+            "foreground": "#6db261"
+        },
+        {
+            "token": "keyword",
+            "foreground": "#209ce2"},
+        {
+            "token": "typeKeyword",
+            "foreground": "#81A1C1"
+        },
+        {
+            "token": "identifier",
+            "foreground": "#050505"},
+        {
+            "token": "delimiter",
+            "foreground": "#fed500"
+        },
+        {
+            "token": "number",
+            "foreground": "#3667AF"
+        },
+        {
+            "token": "string",
+            "foreground": "#ffb649" 
+        },
+        {
+            "token": "string.escape",
+            "foreground": "#FF7B1C"
+        }
+    ],
+    "colors": {
+        "editor.background": "#f4f4f4",
+        "editor.foreground": "#f4f4f4",
+        "editorLineNumber.foreground": "#ababab",
+        "editorLineNumber.activeForeground": "#5f5f5f",
+        "editor.lineHighlightBorder": "#e3e3e3",
+        "editor.inactiveSelectionBackground": "#434c5ecc",
+        "editorCursor.foreground": "#d8dee9"
+    }
+}
