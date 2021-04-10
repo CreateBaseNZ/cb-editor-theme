@@ -18,7 +18,7 @@
             "foreground": "#050505"},
         {
             "token": "delimiter",
-            "foreground": "#fed500"
+            "foreground": "#2C03CF"
         },
         {
             "token": "number",
